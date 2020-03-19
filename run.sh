@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 LOG_LEVEL=info
 if [ "$1" == "debug" ]; then
